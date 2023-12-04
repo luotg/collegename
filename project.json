@@ -1,0 +1,28 @@
+{
+  "collegeDegrees": [
+    {
+      "school": "Shanghai Institute of Technology",
+      "programMajor": "Mechanical Engineering",
+      "type": "BS",
+      "yearConferred": 2016
+    },
+    {
+      "school": "Central Michigan University",
+      "programMajor": "Mechanical Engineering",
+      "type": "BS",
+      "yearConferred": 2019
+    },
+    {
+      "school": "University of Michigan",
+      "programMajor": "Manufacturing System Engineering",
+      "type": "MS",
+      "yearConferred": 2021
+    },
+    {
+      "school": "Boston University",
+      "programMajor": "Computer Information System",
+      "type": "MS",
+      "yearConferred": 2024
+    }
+  ]
+}
